@@ -1,4 +1,4 @@
-
+![XarvisAI](https://github.com/ishindersingh/XarvisAI/blob/main/XarvisAI.JPG?raw=true)
 The provided code is a voice-controlled AI assistant designed with multiple advanced functionalities, integrating various tools and libraries to deliver a wide range of capabilities.
 
 Here’s an overview of its features and flow:
